@@ -1,4 +1,3 @@
-pip install pandas numpy scikit-learn seaborn matplotlib plotly reportlab streamlit fpdf
 """
 generate_report.py
 Usage:
